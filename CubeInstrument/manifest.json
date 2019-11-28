@@ -1,0 +1,15 @@
+{
+	"app": {
+		"title": "JukeNotes",
+		"version": "0.0.1",
+		"runtime": "executable",
+		"server": "127.0.0.1:7000",
+		"description": "Hallo und herzlich Willkommen zu &quot;JukeNotes&quot;. Hier erleben Sie die visuelle und auditive Darstellung von Noten.",
+		"appModule": "UNUSED",
+		"coverArt": "cover.png",
+	    "requiredSiftCount" : 3,
+	    "soundsPath": "assets/sounds",
+	    "imagesPath": "assets/images"
+	}
+
+}

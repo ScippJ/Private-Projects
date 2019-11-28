@@ -1,0 +1,4 @@
+C:\Users\JanK\SVN\CubeInstrument\CubeInstrument\CubeInstrument\bin\Release\Game.exe
+C:\Users\JanK\SVN\CubeInstrument\CubeInstrument\CubeInstrument\bin\Release\Sifteo.dll
+C:\Users\JanK\SVN\CubeInstrument\CubeInstrument\CubeInstrument\bin\Release\JsonFx.dll
+C:\Users\JanK\SVN\CubeInstrument\CubeInstrument\CubeInstrument\obj\Release\Game.exe
